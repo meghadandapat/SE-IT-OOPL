@@ -3,7 +3,6 @@
 
 ## Object Oriented Programming Assignments of SPPU Second Year IT Syllabus (2019 pattern)
 
-### Table of Contents for Assignments
 
 
 | Assignment   | Problem Statement  |
